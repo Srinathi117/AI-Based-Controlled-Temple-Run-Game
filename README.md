@@ -22,4 +22,4 @@ Webcam ➜ Pre-trained pose model ➜ Real-time keypoints ➜ Custom logic to re
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone 
+   git clone https://github.com/Srinathi117/AI-Based-Controlled-Temple-Run-Game.git
