@@ -5,7 +5,8 @@ This project aims to build a real-time, gesture-controlled game inspired by Temp
 
 ## Flow chart
 
-Webcam ➜ Pre-trained pose model ➜ Real-time keypoints ➜ Custom logic to recognize gestures ➜ Control the game
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/13184915-cd5a-4e21-8f5b-2ecde74099aa" />
+
 
 ## Requirements
 
