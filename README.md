@@ -5,7 +5,7 @@ This project aims to build a real-time, gesture-controlled game inspired by Temp
 
 ## Flow chart
 
-<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/13184915-cd5a-4e21-8f5b-2ecde74099aa" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/13184915-cd5a-4e21-8f5b-2ecde74099aa" />
 
 
 ## Requirements
